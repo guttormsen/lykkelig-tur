@@ -41,7 +41,7 @@ id = "31601d0fbb234b41a5f4225d8b0af012"
 # Stengt. Står den på «ja», svarer alt 410 Gone med skiltet i public/stengt.html:
 # appen serveres ikke, API-et stenger før innlogging, cron tier, og en kopi som
 # ligger installert i en nettleser rydder seg selv bort. Sett «nei» for å åpne.
-STENGT = "ja"
+STENGT = "nei"
 # Telegram-gruppa varslene går til. Ingen hemmelighet – uten token er den ubrukelig.
 TELEGRAM_CHAT_ID = "-5144581203"
 TIDSSONE = "Europe/Oslo"
