@@ -10,7 +10,7 @@ export const APP = {
   /** Appen het noe annet før; lagrede turer og innstillinger flyttes over. */
   previousStorageKey: 'turplan.v1',
   /** Sendes som identifikasjon der tjenesten tillater det. */
-  contact: 'https://github.com/guttormsen/guttormsen',
+  contact: 'https://github.com/guttormsen/lykkelig-tur',
 };
 
 /** Startutsnitt: hele Sør-Norge. */

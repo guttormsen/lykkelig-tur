@@ -7,7 +7,7 @@ kilometerne dine.
 
 Ingen konto, ingen sporing, ingen server: turen din bor i nettleseren din.
 
-**Prøv den:** <https://guttormsen.github.io/guttormsen/>
+**Prøv den:** <https://guttormsen.github.io/lykkelig-tur/>
 **Kjør lokalt:** `npm start` og åpne <http://localhost:8080>.
 
 ---
@@ -306,7 +306,7 @@ som helst statisk vert – GitHub Pages, Netlify, en katalog bak nginx.
 ### Publisering på GitHub Pages
 
 Arbeidsflyten i `.github/workflows/ci.yml` kjører testene og legger ut siden fra
-`main` til <https://guttormsen.github.io/guttormsen/>. Skal dette settes opp i et
+`main` til <https://guttormsen.github.io/lykkelig-tur/>. Skal dette settes opp i et
 nytt repo, må Pages slås på manuelt under **Settings → Pages → Source: GitHub
 Actions** – en arbeidsflyt får ikke lov til å gjøre det selv.
 
